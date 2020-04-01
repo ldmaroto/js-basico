@@ -1,4 +1,4 @@
-# js-basico
+# js-basico 🤓
 Javascript Basic Reference Blog - Referencia rápida de Javascript | Notas personales del Curso de platzi.com | Versión: Desarrollo (20200401)
 
 ## Contenido
@@ -25,6 +25,7 @@ Javascript Basic Reference Blog - Referencia rápida de Javascript | Notas perso
 ## Qué es Javascript?.
 Es un lenguaje que nace en la WEB, ante la necesidad de generar dinamismo, interacción con el usuario. Es un lenguaje orientado a generar páginas interactivas que más tarde se convierten en apliaciones WEB.
 Como lenguaje es: interpretado, orientado a objetos, débilmente tipado y dinámico.
+<p>[ 🔙 ](https://github.com/ldmaroto/js-basico#contenido)</p>
 
 ### Lenguajes Backwards y Forwards
 Un lenguaje forward es aquel que es compatible con versiones futuras, es decir que incluye una adición al lenguaje en un programa y no causaría que se rompa si se ejecua en un motor de JS anterior.
