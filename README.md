@@ -31,21 +31,26 @@ Un lenguaje forward es aquel que es compatible con versiones futuras, es decir q
 JS no es compatible con versiones futuras. Si tiene un codigo de JS, que no es compatible en los nuevos motores de JS, se puede usar herramientas como "Babel JS Compilator".
 
 ## Porqué estudiar Javascript?
-Tiene una comunidad muy grande que te puede ayudar a desarrollar diferentes cosas como: aplicaciones Web, aplicaciones nativas, aplicaciones para escritorio, protuctos Back-end / IOT.
+Tiene una comunidad muy grande que te puede ayudar a desarrollar diferentes cosas como: aplicaciones Web, aplicaciones nativas, aplicaciones para escritorio, productos Back-end / IOT.
 
 ## Elementos de programación
-Tenemos dos componentes pricipales: 1. datos o valores que guardamos en memoria y 2. tareas (funciones), que utilizará los datos. Los tipos de valores que veremos en Javascript son:
+Tenemos dos componentes pricipales: 
+
+1. datos o valores que guardamos en memoria.
+2. tareas (funciones), que utilizará los datos. 
+
+Los tipos de valores que veremos en Javascript son:
 
 * tipo "number": 40 
 * de tipo "string": "Diego de la Vega" 
-* de tipo "boolean": true
+* de tipo "boolean": TRUE | FALSE
 * de tipo "null": NULL
-* de tipo "undefined", el cual es un tipo primitivo en Javascript
+* de tipo "undefined": UNDEFINED (el cual es un tipo primitivo en Javascript)
 * de tipo "object": [1,2,3] | {nombre: "Diego"}
 
 ## Variables
 Es la representación de algun lugar en memoria, donde vamos a guardar un valor.
-EN JS, "var" es una palabra reservada para poder guardar un valor en memoria. El ";" nos permite indicar que termina una sentencia. Las variales tienen dos estados: declarado e inicializado.
+En Javascript, "var" es una palabra reservada para guardar un valor en memoria. El ";" nos permite indicar que termina una sentencia. Las variales tienen dos estados: declarado e inicializado.
 [Ver: Ejemplo de Variables.](https://github.com/ldmaroto/js-basico/blob/master/exercises/variables.js)
 
 
