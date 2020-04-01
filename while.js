@@ -1,3 +1,9 @@
+/*
+
+SECCIÓN 16: Uso del While.
+
+*/
+
 var estudiantes = ["Maria", "Segio", "Diana", "Rosa"]
 
 function saludarEstudiantes(estudiante){

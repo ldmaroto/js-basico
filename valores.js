@@ -1,27 +1,16 @@
-/* 
-VALORES:
+/*
 
-Valor <40> es de tipo "number"
-Valor <"Diego de la Vega"> es de tipo "string"
-Valor primitivo <true> es de tipo "boolean"
-Valor primitivo <false> es de tipo "boolean"
-Valor primitivo <NULL> es de tipo "null"
-Valor primitivo <> es de tipo "undefined"
-Valor <[1,2,3]> es de tipo "object"
+SECCIÓN 3: Tipos de valores.
 
-Valor <{nombre: "Diego"}> es de tipo "object"
-
-TYPEOF:
-"Typeof" es un comando para obtener el tipo de variable de un determinado valor.
 */
 
-var numero1 = 40;
-var cadena1 = "Hola Mundo"
-var boleano1 = true;
-var boleano2 = false;
-var indefinido1;
-var arreglo1 = [1,2,3];
-var objeto1 = { nombre: "Diego"};
+var numero1 = 40;                   // de tipo "number"
+var cadena1 = "Hola Mundo";         // de tipo "string"
+var boleano1 = true;                // de tipo "boolean"
+var boleano2 = false;               // de tipo "boolean"
+var indefinido1;                    // de tipo "undefined"
+var arreglo1 = [1,2,3];             // de tipo "object"
+var objeto1 = { nombre: "Diego"};   // de tipo "object"
 
 presentar(numero1);
 presentar(cadena1);
@@ -30,6 +19,8 @@ presentar(boleano2);
 presentar(indefinido1);
 presentar(arreglo1);
 presentar(objeto1);
+
+// TYPEOF: "Typeof" es un comando para obtener el tipo de variable de un determinado valor.
 
 function presentar(i){
     console.log("Valor: " + i + " | Tipo: " + typeof(i))

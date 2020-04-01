@@ -1,21 +1,6 @@
 /*
-Las funciones son un conjunto de sentencias, que utilizamos para realizar acciones con valores que guardamos en las variables.
-Funciones son como procedimientos o tares.
 
-Para llamar una función, se coloca el bombre de la función, seguido de "()". El "()" le dice a JS que hay mismo se llama la función.
-Dentro de "()", se indican los parámetros.
-
-function() es una función anónima porque no tiene nombre.
-
-Funciones Declarativas:
-Son las funciones donde utilizamos la palabra reservada "function" al inicio para poder declarar la función.
-
-Expresión de función:
-Donde la declaración se inicia con la palabra reservada var, y se generará una variable que guardará un función anónima.
-
-Diferencias entre Funciones Declarativas y de Expresión:
-A las funciones declarativas se les aplica hoisting, y a la expresión de función, no. Ya que el hoisting solo se aplica en las palabras reservadas var y function.
-Lo que quiere decir que con las funciones declarativas, podemos mandar llamar la función antes de que ésta sea declarada, y con la expresión de función, no, tendríamos que declararla primero, y después mandarla llamar.
+SECCIÓN 5: Funciones.
 
 */
 

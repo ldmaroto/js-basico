@@ -1,8 +1,7 @@
 /*
-var es una palabra reservada en JS para poder guardar un valor en memoria.
-El ";" nos permite indicar que termina una sentencia.
 
-Las variales tienen dos estados: declarado e inicializado.
+SECCIÓN 4: Variables.
+
 */
 
 var nombre = "Diego"; //valor declarado e iniciado.
