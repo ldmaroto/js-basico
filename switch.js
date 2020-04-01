@@ -1,3 +1,9 @@
+/*
+
+SECCIÓN 11: Switch.
+
+*/
+
 var numero = 11;
 
 switch (numero) {

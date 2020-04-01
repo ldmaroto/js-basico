@@ -1,5 +1,7 @@
 /*
-Las condicionales son reglas, para poder validar si algo es verdadero o falso, y generar ciertas acciones.
+
+SECCIÓN 10: Condicionales.
+
 */
 
 var prueba1 = true;

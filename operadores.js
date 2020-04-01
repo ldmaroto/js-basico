@@ -1,3 +1,10 @@
+/*
+
+SECCIÓN 9: Operadores.
+
+*/
+
+
 // Operadores de operaciones matemáticas (operadores binarios)
 
 console.log(3 + 2); // Suma.

@@ -1,3 +1,10 @@
+/*
+
+SECCIÓN 8: Falso y verdadero.
+
+*/
+
+
 // Valores falsos
 
 var f1 = Boolean();

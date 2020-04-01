@@ -1,5 +1,7 @@
 /*
-Hay dos tipos de coerciones: implicitas y explicitas.
+
+SECCIÓN 7: Coerción.
+
 */
 
 // Ejemplo de coerción Implicita

@@ -8,6 +8,17 @@ Javascript 101 Reference Blog - Referencia rápida de Javascript | Notas persona
 * Variables.
 * Funciones.
 * Scope.
+* Hoisting.
+* Coerción.
+* Falso y verdadero.
+* Operadores.
+* Condicionales.
+* Switch.
+* Arreglos.
+* Loops: For y For...of
+* Loops: While
+* Objetos
+* Función Constructora
 
 
 ## Qué es Javascript.
@@ -58,3 +69,43 @@ En JS, hay dos tipos de Scope:
 * Scope Local.
 
 El Scope define la visibilidad de estas variables. Variables definidas dentro de una función no son visibles desde fuera de la misma.
+
+## Hoisting
+Es cuando las variales y las funciones se declaran antes que se procese cualquier tipo de código.
+Sucede en ECMAScrip 5 para abajo, y en ECMAScrip 6 en adelante, el Hoisting ya no sucede, solo ocurren con dos palabras claves: VAR y FUNCTION.
+
+En ECMAScrip 6 presentan dos nuevas palabras: LET y CONST, las cuales no tendrán ningun tipo de Hoisting.
+
+## Coerción
+Hay dos tipos de coerciones: implicitas y explicitas.
+
+## Falso y verdadero
+
+## Operadores
+
+### Operadores de operaciones matemáticas (operadores binarios).
+### Operadores lógicos.
+### Operadores de asignación.
+### Operadores de comparación.
+### Operadores incrementales.
+
+## Condicionales
+Las condicionales son reglas, para poder validar si algo es verdadero o falso, y generar ciertas acciones.
+
+## Switch
+
+## Arreglos
+Un arreglo o un array, es una estructura de datos que se almacena bajo el mismo nombre a una colección de datos. Conoceremos los metodos que nos ayudan a mutar a un arreglo:
+* Metodo Push : Nos permite agregar un elemento en la última posición.
+* Metodo Pop : Nos permite eliminar el último elemento de un array.
+* Metodo Unshift : Nos permite agregar un elemento en la primera posición.
+* Metodo Shift : Nos permite eliminar el primer elemento de un array.
+* Metodo indexOf : Nos permite saber la posición de un elemento.
+
+## Loops: For y For...of
+
+## Loops: While
+
+## Objetos
+
+## Función Constructora

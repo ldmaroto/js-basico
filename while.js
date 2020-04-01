@@ -1,6 +1,6 @@
 /*
 
-SECCIÓN 16: Uso del While.
+SECCIÓN 14: Uso del Loop: While.
 
 */
 

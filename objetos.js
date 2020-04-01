@@ -1,6 +1,6 @@
 /*
 
-SECCIÓN 17: Ejemplo de Objeto.
+SECCIÓN 15: Ejemplo de Objeto.
 
 Aquí definimos un solo objeto, es un Auto.
 Recordando, un "Atributo" de un objeto es a una "Variable", como un "Método" de un objeto es a una "Función".

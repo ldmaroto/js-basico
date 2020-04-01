@@ -1,3 +1,9 @@
+/*
+
+SECCIÓN 13: Loops: For y For...of
+
+*/
+
 var estudiantes = ["Maria", "Sergio", "Rosa", "Daniel"];
 
 function saludarEstudiantes(estudiantes){

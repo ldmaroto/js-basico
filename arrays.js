@@ -1,4 +1,8 @@
-//Metodos que nos ayudan mutar un array.
+/*
+
+SECCIÓN 12: Arrays.
+
+*/
 
 var frutas = ["Manzana", "Banano", "Cereza", "Fresa"];
 console.log(frutas);
