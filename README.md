@@ -46,6 +46,10 @@ Tenemos dos componentes pricipales: 1. datos o valores que guardamos en memoria 
 Es la representación de algun lugar en memoria, donde vamos a guardar un valor.
 EN JS, "var" es una palabra reservada para poder guardar un valor en memoria. El ";" nos permite indicar que termina una sentencia. Las variales tienen dos estados: declarado e inicializado.
 
+```
+[Ejemplo de Variables](https://github.com/ldmaroto/js-basico/blob/master/variables.js)
+```
+
 ## Funciones
 Las funciones son un conjunto de sentencias, que utilizamos para realizar acciones con valores que guardamos en las variables. Funciones son como procedimientos o tares.
 
