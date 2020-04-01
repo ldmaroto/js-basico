@@ -582,7 +582,7 @@ var articulos = [
     { nombre: "Audifono", costo: 1700}
 ]
 
-// Utilizando el método: "find" 
+// Utilizando el método: "forEach" 
 
 articulos.forEach(function(articulo){
     console.log(articulo.nombre);

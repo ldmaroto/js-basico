@@ -24,7 +24,7 @@ var encuentraArticulo = articulos.find(function(articulo){
 
 console.log(encuentraArticulo);
 
-// Utilizando el método: "find" 
+// Utilizando el método: "forEach" 
 
 articulos.forEach(function(articulo){
     console.log(articulo.nombre);
