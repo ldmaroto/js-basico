@@ -1,29 +1,28 @@
 # js-basico
-Javascript 101 Reference Blog - Referencia rápida de Javascript | Notas personales del Curso de platzi.com | Versión: Desarrollo (20200331)
+Javascript Basic Reference Blog - Referencia rápida de Javascript | Notas personales del Curso de platzi.com | Versión: Desarrollo (20200401)
 
 ## Contenido
-* Qué es Javascript?
-* Porqué estudiar Javascript?
-* Elementos de programación.
-* Variables.
-* Funciones.
-* Scope.
-* Hoisting.
-* Coerción.
-* Falso y verdadero.
-* Operadores.
-* Condicionales.
-* Switch.
-* Arreglos.
-* Loops: For y For...of
-* Loops: While
-* Objetos
-* Función Constructora
-* Recorrido de Arreglos 1
-* Recorrido de Arreglos 2
+* [Qué es Javascript?.](https://github.com/ldmaroto/js-basico#qu%C3%A9-es-javascript)
+* [Porqué estudiar Javascript?.](https://github.com/ldmaroto/js-basico#porqu%C3%A9-estudiar-javascript)
+* [Elementos de programación.](https://github.com/ldmaroto/js-basico#elementos-de-programaci%C3%B3n)
+* [Variables.](https://github.com/ldmaroto/js-basico#variables)
+* [Funciones.](https://github.com/ldmaroto/js-basico#funciones)
+* [Scope.](https://github.com/ldmaroto/js-basico#scope)
+* [Hoisting.](https://github.com/ldmaroto/js-basico#hoisting)
+* [Coerción.](https://github.com/ldmaroto/js-basico#coerci%C3%B3n)
+* [Falso y verdadero.](https://github.com/ldmaroto/js-basico#falso-y-verdadero)
+* [Operadores.](https://github.com/ldmaroto/js-basico#operadores)
+* [Condicionales.](https://github.com/ldmaroto/js-basico#condicionales)
+* [Switch.](https://github.com/ldmaroto/js-basico#switch)
+* [Arreglos.](https://github.com/ldmaroto/js-basico#arreglos)
+* [Loops: For y For...of](https://github.com/ldmaroto/js-basico#loops-for-y-forof)
+* [Loops: While](https://github.com/ldmaroto/js-basico#loops-while)
+* [Objetos.](https://github.com/ldmaroto/js-basico#objetos)
+* [Función Constructora.](https://github.com/ldmaroto/js-basico#funci%C3%B3n-constructora)
+* [Recorrido de Arreglos 1.](https://github.com/ldmaroto/js-basico#recorrido-de-arreglos-1)
+* [Recorrido de Arreglos 2.](https://github.com/ldmaroto/js-basico#recorrido-de-arreglos-2)
 
-
-## Qué es Javascript.
+## Qué es Javascript?.
 Es un lenguaje que nace en la WEB, ante la necesidad de generar dinamismo, interacción con el usuario. Es un lenguaje orientado a generar páginas interactivas que más tarde se convierten en apliaciones WEB.
 Como lenguaje es: interpretado, orientado a objetos, débilmente tipado y dinámico.
 
@@ -31,7 +30,7 @@ Como lenguaje es: interpretado, orientado a objetos, débilmente tipado y dinám
 Un lenguaje forward es aquel que es compatible con versiones futuras, es decir que incluye una adición al lenguaje en un programa y no causaría que se rompa si se ejecua en un motor de JS anterior.
 JS no es compatible con versiones futuras. Si tiene un codigo de JS, que no es compatible en los nuevos motores de JS, se puede usar herramientas como "Babel JS Compilator".
 
-## Porqué estudiar Javascrip?
+## Porqué estudiar Javascript?
 Tiene una comunidad muy grande que te puede ayudar a desarrollar diferentes cosas como: aplicaciones Web, aplicaciones nativas, aplicaciones para escritorio, protuctos Back-end / IOT.
 
 ## Elementos de programación
@@ -118,13 +117,13 @@ Un arreglo o un array, es una estructura de datos que se almacena bajo el mismo 
 ## Loops: While
 [Ver: Ejemplo de Loop While.](https://github.com/ldmaroto/js-basico/blob/master/while.js)
 
-## Objetos
+## Objetos.
 [Ver: Ejemplo de Objetos.](https://github.com/ldmaroto/js-basico/blob/master/objetos.js)
 
-## Función Constructora
+## Función Constructora.
 Una forma de automatizar la creación de objetos, es mediante una funcción constructora, en donde vamos hacer una plantilla de un objeto, con ciertas opciones que seran sus parámetros y sus propiedades. 
 
-## Recorrido de Arreglos 1
+## Recorrido de Arreglos 1.
 
 
-## Recorrido de Arreglos 2
+## Recorrido de Arreglos 2.
